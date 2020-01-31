@@ -1,0 +1,7 @@
+Credentials cache: API:68316
+        Principal: gdudorov@42.US.ORG
+
+  Issued                Expires               Principal
+Jan  7 15:55:16 2020  Jan  8 01:55:16 2020  krbtgt/42.US.ORG@42.US.ORG
+Jan  7 15:55:17 2020  Jan  8 01:55:16 2020  ldap/ldap-master.42.us.org@42.US.ORG
+Jan  7 16:27:50 2020  Jan  8 01:55:16 2020  host/vgs-fn1.42.us.org@42.US.ORG
